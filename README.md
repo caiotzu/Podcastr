@@ -1,5 +1,5 @@
 # Podcastr
-> Project built during NLW#5 - Podcastr
+> # <img src="/public/github/logo.svg" alt="Logo Podcastr"/> Project built during NLW#5 - Podcastr
 
 <img src="/public/github/nlw5.png" alt="NLW#5"/>
 
