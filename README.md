@@ -1,5 +1,5 @@
 # <img src="/public/favicon.png" alt="Logo Podcastr" width="40" /> Podcastr
-> # Project built during NLW#5 - Podcastr
+> Project built during NLW#5 - Podcastr
 
 <img src="/public/github/nlw5.png" alt="NLW#5"/>
 
