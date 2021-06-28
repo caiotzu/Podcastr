@@ -1,4 +1,4 @@
-# <img src="/public/favicon.png" alt="Logo Podcastr" style="max-width: 40px;"/> Podcastr
+# <img src="/public/logo.svg" alt="Logo Podcastr" style="max-width: 40px;"/>
 > # Project built during NLW#5 - Podcastr
 
 <img src="/public/github/nlw5.png" alt="NLW#5"/>
