@@ -8,6 +8,7 @@
 - TypeScript
 - React
 - NextJs
+- NodeJs
 
 # :link: Dependencies
 > Dependencies to be able to run the project.
